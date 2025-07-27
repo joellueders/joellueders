@@ -1,57 +1,52 @@
-# 🌿 [Visit My Digital Garden](https://my-digital-garden-nu-blue.vercel.app/)
+# 🌐 [My Knowledge Garden](https://my-digital-garden-nu-blue.vercel.app/)
 
-# 👋 Hey, I'm Joel Lueders
+# 👋 Hi, I’m Joel Lueders
 
-## 🕵️‍♂️ Red Team Curious | 🛠️ Security Tinkerer | 🎭 UX-Driven Chaos Engineer
-
----
+## 🎭 Creative Red Teamer | 🎨 UX-Driven Disruptor | ✍️ Writer of Weird Realities
 
 **Current Mission:**  
-Leaning full-tilt into the world of cybersecurity with a focus on red teaming, prompt injection, jailbreak testing, and human-centered exploits. I'm especially interested in how social engineering, creative misdirection, and AI jailbreaking intersect with traditional pen testing.
+I probe the edges of AI systems using performance, design, and storytelling. Think of me less as a hacker, more as a hallucination engineer. I don’t try to break models, I invite them to break themselves.
 
 ---
 
-### 🧠 Background Snapshot:
+### 🧠 Quick Background:
 
-- Former surgical inventory specialist in a high-pressure pediatric hospital, where I learned how one broken link can halt an entire system. Sound familiar?
-- Honed my UX design skills in the wild—leading warehouse transformations, designing for haunted houses, and teaching seniors how to use VR (yes, really).
-- Army National Guard vet who understands that sometimes the mission is logistics, and sometimes it's infiltration.
-
----
-
-### 🔍 What I'm Working On:
-
-- **Studying Penetration Testing:** Learning Linux (Mint + Debian), Metasploit, Burp Suite, and the art of the subtle misstep.
-- **AI Jailbreaks & Prompt Injection:** Building adversarial prompts to test the guardrails of LLMs and explore how systems break when you whisper just the right wrong thing.
-- **Knowledge Garden:** Organizing a living library of attack types, vectors, and social engineering patterns—because real-world hacks don’t fit into neat categories.
+- 🥈 2nd place – 2017 Twin Cities AI Hackathon  
+- ⚔️ Top 25% – Gandalf Lakera 2024 Hackathon  
+- 👻 Actor/director in immersive horror—designing psychological tension in real time  
+- 🎨 Freelance UX, building human centered systems from warehouses to online user workflows.
+- 🎖️ Army National Guard vet—field logistics + improvisation  
+- 🏥 Surgical inventory specialist—high-stakes systems thinker  
 
 ---
 
-### 🛠️ Skills I'm Building:
+### 🔍 Current Work:
 
-- Penetration Testing Basics (Kali, Recon, Exploitation)
-- Prompt Engineering & Jailbreak Red Teaming
-- Cybersecurity Fundamentals (networking, cryptography, threat modeling)
-- Scripting (Python, Bash) – beginner level but increasing daily
-- Documentation & Communication – a strength I bring from my UX/design background
-
----
-
-### 🌱 What Sets Me Apart:
-
-- **Creative Lens:** I come from the world of theater, haunted houses, and design thinking. I look for patterns, cracks, and overlooked systems—especially where humans meet machines.
-- **Empathy-First Recon:** I don’t just think about how to break a system—I think about how someone might *feel* when it breaks. Red teaming isn’t just technical, it’s psychological.
-- **Chaotic Good Alignment:** I like to explore ethically disruptive ways to make things better. Sometimes that means asking strange questions. Sometimes it means getting weird with it.
+- **LLM Red Teaming:** Emotional bait, surreal narratives, and "harmless" misdirection  
+- **Prompt Injection:** Chaotic edge cases + overly helpful personas  
+- **Social Engineering Theater:** Trust-based attacks via character + improv  
+- **Knowledge Garden:** Ongoing archive of AI flaws, human errors, and linguistic trapdoors  
 
 ---
 
-### 💬 Let’s Connect
+### 🛠️ What Makes Me... Me:
 
-- 📝 [Substack: Uncommon Grounds](https://uncommongrounds.substack.com) – Political bridging + scripts for tough conversations
-- 🐦 Twitter/X: [@yourhandle] *(add yours if you'd like)*
-- 🌐 Website: [joellueders.com] *(if available)*
-- 📧 Email: joel@example.com *(or leave out if you prefer privacy)*
+- **Right-Brain Recon:** I test systems by bending reality, not just syntax  
+- **Narrative Exploits:** Stories that trick models *and* people  
+- **Empathic Adversary:** I study why people believe the unbelievable  
+- **Toolbox of the Odd:** UX, haunt design, education, military logistics—whatever breaks the black box  
 
 ---
 
-_“Security is about trust. But trust, like a haunted house or a hospital storeroom, is only as strong as the last person who forgot to lock the door.”_
+### 🎯 Looking For:
+
+Open to work in AI security, adversarial prompt design, and weird-think red teaming. Especially interested in roles where ambiguity isn’t a bug—it’s the point.
+
+---
+
+### 💬 Find Me Here:
+
+- 📝 [Uncommon Grounds – Substack](https://uncommongrounds.substack.com)  
+- 🌱 [Knowledge Garden](https://my-digital-garden-nu-blue.vercel.app/)  
+- 🐦 Twitter/X: [@matadoriangray](https://twitter.com/matadoriangray)  
+- 📧 Email: joel-security@protonmail.me
